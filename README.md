@@ -31,7 +31,7 @@
 
 - [西瓜视频](https://www.ixigua.com/home/607360094052119)
 
-- [抖音直播](https://live.douyin.com/88535952052)
+- [抖音直播](https://www.douyin.com/user/MS4wLjABAAAAgDfLSvGUHdwY7DAQEHncV5v0JrGWEu_NdyXOqLb9JTc?from_tab_name=main)
   
 
 ## 版权声明
