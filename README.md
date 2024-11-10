@@ -24,13 +24,13 @@
 ### 快捷链接
 
 - [虎牙直播](https://www.huya.com/27644739)
-  ![虎牙直播二维码](static/picture/code-hy.png)
+  ![虎牙直播二维码](https://tuanmengqiu.cn/static/picture/code-hy.png)
 
 - [哔哩哔哩](https://space.bilibili.com/1447502167)
-  ![哔哩哔哩二维码](static/picture/code-bl.png)
+  ![哔哩哔哩二维码](https://tuanmengqiu.cn/static/picture/code-bl.png)
 
 - [西瓜视频](https://www.ixigua.com/home/607360094052119)
-  ![西瓜视频二维码](static/picture/code-xg.png)
+  ![西瓜视频二维码](https://tuanmengqiu.cn/static/picture/code-xg.png)
 
 - [比赛QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7XMNoKnFRK-g6h9JRGLXAsxIST7O1gpj&authKey=cNo0LMLOanR%2FUimIfgcIedpGfGheVcRJOYrVTUfBNURLWxdvWH3Kq0fnkUG05xTr&noverify=0&group_code=124605944)
   点击加入 [QQ群 124605944](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7XMNoKnFRK-g6h9JRGLXAsxIST7O1gpj&authKey=cNo0LMLOanR%2FUimIfgcIedpGfGheVcRJOYrVTUfBNURLWxdvWH3Kq0fnkUG05xTr&noverify=0&group_code=124605944)
