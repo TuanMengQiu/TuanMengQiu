@@ -19,9 +19,18 @@
 > 工作室QQ群:923032296
 >
 > 点击[加入工作室](https://qm.qq.com/q/NLOSp2JjeU)
-<html>
- <head>
+
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
     <meta charset="utf-8">
+    <title>团梦秋赛事</title>
+    <link rel="shortcut icon" href="https:\\tuanmengqiu.cn\static\picture\a4Vyng.jpg" type="image/x-icon">
+    <link rel="bookmark" href="https:\\tuanmengqiu.cn\static\picture\a4Vyng.jpg">
+    <link href="static/css/qiuqiu.css" rel="stylesheet" type="text/css">
+    <link href="static/css/styles.css" rel="stylesheet">
         <style>
         .lbt {
             margin: 0;
@@ -114,6 +123,85 @@
         
     </style>
 </head>
+<body>
+    <div class="lbt">
+        <div class="outer-shell">
+        <div class="slider">
+            <div class="slides">
+                <img src="images/image1.jpg" alt="Image 1">
+                <!-- 可以继续添加更多图片 -->
+            </div>
+            <button class="prev">‹</button>
+            <button class="next">›</button>
+            <div class="dots">
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <!-- 根据图片数量调整点的数量 -->
+            </div>
+        </div>
+    </div>
+</div>
+    <script>
+        const slides = document.querySelector('.slides');
+        const images = document.querySelectorAll('.slides img');
+        const dots = document.querySelectorAll('.dot');
+        let index = 0;
+        let interval;
+
+        function showSlide(n) {
+            if (n >= images.length) {
+                index = 0;
+            } else if (n < 0) {
+                index = images.length - 1;
+            } else {
+                index = n;
+            }
+            slides.style.transform = `translateX(${-index * 100}%)`;
+            updateDots();
+        }
+
+        function updateDots() {
+            dots.forEach((dot, i) => {
+                dot.classList.toggle('active', i === index);
+            });
+        }
+
+        function startAutoSlide() {
+            interval = setInterval(() => {
+                showSlide(index + 1);
+            }, 3000); // 每3秒自动切换
+        }
+
+        function stopAutoSlide() {
+            clearInterval(interval);
+        }
+
+        document.querySelector('.next').addEventListener('click', () => {
+            showSlide(index + 1);
+            stopAutoSlide(); // 点击按钮时停止自动轮播
+            startAutoSlide(); // 重新启动自动轮播
+        });
+
+        document.querySelector('.prev').addEventListener('click', () => {
+            showSlide(index - 1);
+            stopAutoSlide(); // 点击按钮时停止自动轮播
+            startAutoSlide(); // 重新启动自动轮播
+        });
+
+        dots.forEach((dot, i) => {
+            dot.addEventListener('click', () => {
+                showSlide(i);
+                stopAutoSlide(); // 点击点时停止自动轮播
+                startAutoSlide(); // 重新启动自动轮播
+            });
+        });
+
+        // Initial setup
+        showSlide(index);
+        startAutoSlide();
+    </script>
+    
         <div class="part part6" id="page6">
             <div class="part6-con">
                 <div class="part6-li">
@@ -142,4 +230,34 @@
                 </div>
             </div>
         </div>
+
+
+
+
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p style="color: #dfe5ec;margin-bottom:0rem">团梦秋微赛事</p>
+                    <p class="p-small">Copyright &copy; 2024 <a href="https://tuanmengqiu.cn/"target="_blank"</a>梦秋工作室MengQiu Studio</a><!--丨--><a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer"><!--ICP备案：吉xxxxxx号-x--></a></p>
+                </div> <!-- end of col -->
+            </div> <!-- enf of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of copyright --> 
+    <!-- end of copyright -->
+    <!-- Scripts -->
+
+    <!--鼠标样式-->
+    <img class="mouse" src="img/logo.png" alt="">
+    <script src="static/js/mouse.js"></script>
+    <link href="static/css/mouse.css" rel="stylesheet">
+
+    <!--网页黑白-->
+  <!--
+    <link href="static/css/heibai.css" rel="stylesheet">
+  -->
+    <script src="static/js/huaban.js"></script><!--花瓣效果-->
+<audio src="static/picture/1.mp3" loop="loop" autoplay="autoplay"></audio>
+</body>
 </html>
+
