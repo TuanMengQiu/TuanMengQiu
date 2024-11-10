@@ -1,16 +1,19 @@
-## Hi there 👋
+### 保险箱防护插件包
+![](https://tuanmengqiu.cn/studio/bxxfh/img/icon.png)
+> [!NOTE|style:flat]
+> 保险箱防护插件包是由梦秋工作室成员团梦秋制作的被动防御插件包
+>
+> 插件包专门解决保险箱能被拆、利用bug刷物品、利用bug卡房问题
+>
+> 下方为资源工坊id
+> ``` 资源工坊id
+> 636968783_1726561015
+> ```
+>
+> 点击[查看更新公告](https://tuanmengqiu.cn/studio/bxxfh/)
 
-<!--
-**TuanMengQiu/TuanMengQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 加入工作室
+> [!NOTE|style:flat]
+> 工作室QQ群:923032296
+>
+> 点击[加入工作室](https://qm.qq.com/q/NLOSp2JjeU)
