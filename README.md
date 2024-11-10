@@ -20,3 +20,48 @@
 >
 > 点击[加入工作室](https://qm.qq.com/q/NLOSp2JjeU)
 
+# 团梦秋赛事
+
+![团梦秋赛事图标](https://tuanmengqiu.cn/static/picture/a4Vyng.jpg)
+
+[![团梦秋赛事图标](https://tuanmengqiu.cn/static/picture/a4Vyng.jpg)](https://tuanmengqiu.cn/)
+
+## 团梦秋赛事
+
+### 滑动展示
+
+![Image 1](images/image1.jpg)
+
+> 继续添加更多图片...
+
+### 快捷链接
+
+- [虎牙直播](https://www.huya.com/27644739)
+  ![虎牙直播二维码](static/picture/code-hy.png)
+
+- [哔哩哔哩](https://space.bilibili.com/1447502167)
+  ![哔哩哔哩二维码](static/picture/code-bl.png)
+
+- [西瓜视频](https://www.ixigua.com/home/607360094052119)
+  ![西瓜视频二维码](static/picture/code-xg.png)
+
+- [比赛QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7XMNoKnFRK-g6h9JRGLXAsxIST7O1gpj&authKey=cNo0LMLOanR%2FUimIfgcIedpGfGheVcRJOYrVTUfBNURLWxdvWH3Kq0fnkUG05xTr&noverify=0&group_code=124605944)
+  点击加入 [QQ群 124605944](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7XMNoKnFRK-g6h9JRGLXAsxIST7O1gpj&authKey=cNo0LMLOanR%2FUimIfgcIedpGfGheVcRJOYrVTUfBNURLWxdvWH3Kq0fnkUG05xTr&noverify=0&group_code=124605944)
+
+## 版权声明
+
+团梦秋微赛事  
+Copyright &copy; 2024 [梦秋工作室MengQiu Studio](https://tuanmengqiu.cn/)
+
+> 备案：吉xxxxxx号-x  
+> [备案链接](https://beian.miit.gov.cn/)
+
+## 额外资源
+
+- ![鼠标样式](img/logo.png)
+  [鼠标样式脚本](static/js/mouse.js)
+
+- [花瓣效果](static/js/huaban.js)
+
+- [背景音乐](static/picture/1.mp3)
+
