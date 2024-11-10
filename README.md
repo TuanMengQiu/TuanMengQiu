@@ -37,8 +37,5 @@
 
 ## 版权声明
 
-团梦秋微赛事  
+团梦秋  
 Copyright &copy; 2024 [梦秋工作室MengQiu Studio](https://tuanmengqiu.cn/)
-
-> 备案：吉xxxxxx号-x  
-> [备案链接](https://beian.miit.gov.cn/)
