@@ -15,7 +15,7 @@
 >
 > 点击[查看更新公告](https://tuanmengqiu.cn/studio/bxxfh/)
 
-### 加入工作室
+### 加入梦秋工作室
 > 工作室QQ群:923032296
 >
 > 点击[加入工作室](https://qm.qq.com/q/NLOSp2JjeU)
