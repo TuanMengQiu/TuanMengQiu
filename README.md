@@ -19,3 +19,32 @@
 > 工作室QQ群:923032296
 >
 > 点击[加入工作室](https://qm.qq.com/q/NLOSp2JjeU)
+
+        <div class="part part6" id="page6">
+            <div class="part6-con">
+                <div class="part6-li">
+                    <a href="https://www.huya.com/27644739" target="_blank">
+                    <img src="static/picture/code-hy.png">
+                    <p>虎牙直播</p>
+                    </a>
+                </div>
+                <div class="part6-li">
+                    <a href="https://space.bilibili.com/1447502167" target="_blank">
+                    <img src="static/picture/code-bl.png">
+                    <p>哔哩哔哩</p>
+                    </a>
+                </div>
+                <div class="part6-li">
+                    <a href="https://www.ixigua.com/home/607360094052119" target="_blank">
+                    <img src="static/picture/code-xg.png">
+                    <p>西瓜视频</p>
+                    </a>
+                </div>
+                <div class="part6-li">
+                    <div class="qq-link">
+                        <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7XMNoKnFRK-g6h9JRGLXAsxIST7O1gpj&authKey=cNo0LMLOanR%2FUimIfgcIedpGfGheVcRJOYrVTUfBNURLWxdvWH3Kq0fnkUG05xTr&noverify=0&group_code=124605944"target="_blank" onclick="PTTSendClick('btn','link1','迷你比赛群');">124605944</a>
+                    </div>
+                    <p>比赛QQ群</p>
+                </div>
+            </div>
+        </div>
