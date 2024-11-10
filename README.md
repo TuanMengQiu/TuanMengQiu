@@ -29,8 +29,7 @@
 
 - [西瓜视频](https://www.ixigua.com/home/607360094052119)
 
-- [比赛QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7XMNoKnFRK-g6h9JRGLXAsxIST7O1gpj&authKey=cNo0LMLOanR%2FUimIfgcIedpGfGheVcRJOYrVTUfBNURLWxdvWH3Kq0fnkUG05xTr&noverify=0&group_code=124605944)
-  点击加入 [QQ群 124605944](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7XMNoKnFRK-g6h9JRGLXAsxIST7O1gpj&authKey=cNo0LMLOanR%2FUimIfgcIedpGfGheVcRJOYrVTUfBNURLWxdvWH3Kq0fnkUG05xTr&noverify=0&group_code=124605944)
+  
 
 ## 版权声明
 
