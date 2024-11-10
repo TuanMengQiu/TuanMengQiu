@@ -1,4 +1,3 @@
-  </script>
   <script src="js/docsify.min.js"></script>
   <script src="js/prism-python.js"></script><!--python代码高亮-->
   <script src="js/prism-lua.js"></script><!--lua代码高亮-->
