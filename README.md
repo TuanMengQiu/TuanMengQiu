@@ -20,19 +20,6 @@
 >
 > 点击[加入工作室](https://qm.qq.com/q/NLOSp2JjeU)
 
-# 团梦秋赛事
-
-![团梦秋赛事图标](https://tuanmengqiu.cn/static/picture/a4Vyng.jpg)
-
-[![团梦秋赛事图标](https://tuanmengqiu.cn/static/picture/a4Vyng.jpg)](https://tuanmengqiu.cn/)
-
-## 团梦秋赛事
-
-### 滑动展示
-
-![Image 1](images/image1.jpg)
-
-> 继续添加更多图片...
 
 ### 快捷链接
 
@@ -55,13 +42,3 @@ Copyright &copy; 2024 [梦秋工作室MengQiu Studio](https://tuanmengqiu.cn/)
 
 > 备案：吉xxxxxx号-x  
 > [备案链接](https://beian.miit.gov.cn/)
-
-## 额外资源
-
-- ![鼠标样式](img/logo.png)
-  [鼠标样式脚本](static/js/mouse.js)
-
-- [花瓣效果](static/js/huaban.js)
-
-- [背景音乐](static/picture/1.mp3)
-
