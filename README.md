@@ -23,6 +23,8 @@
 
 ### 快捷链接
 
+- [秋秋工坊](https://www.tuanmengqiu.cn/kfz/#/)
+
 - [虎牙直播](https://www.huya.com/27644739)
 
 - [哔哩哔哩](https://space.bilibili.com/1447502167)
